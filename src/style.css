@@ -13,5 +13,12 @@ p {
 
 h1{ 
 	text-align: center;
-
  }
+
+#missao{
+	font-size: 30px;
+}
+
+#banner{
+	width: 100%;
+}
