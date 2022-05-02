@@ -3,10 +3,15 @@ strong{
   color: #FF0000;
 }
 
-body{
-  background: #b7b7b7;
+.principal{
+	padding: 30px;
+  	background: #CCCCCC;
 }
 
+.beneficios{
+	background: #CCCCCC;
+	padding: 20px;
+}
 p {
 	text-align:center;
 }
@@ -21,4 +26,23 @@ h1{
 
 #banner{
 	width: 100%;
+}
+
+.itens{
+	font-style: italic;
+}
+
+.imagembeneficios{
+	width: 50%;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+h2{
+	text-align: center;
 }
