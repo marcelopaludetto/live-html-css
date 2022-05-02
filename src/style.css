@@ -1,5 +1,4 @@
 strong{
-
   color: #FF0000;
 }
 
@@ -16,12 +15,16 @@ p {
 	text-align:center;
 }
 
-h1{ 
+.titulo-centralizado{ 
 	text-align: center;
  }
 
+ .titulo-principal{
+ 	padding: 20px;
+ }
+
 #missao{
-	font-size: 30px;
+	font-size: 20px;
 }
 
 #banner{
@@ -43,6 +46,6 @@ ul{
 	margin-right: 15%;
 }
 
-h2{
-	text-align: center;
+h3{
+	font-size: 20px;
 }
